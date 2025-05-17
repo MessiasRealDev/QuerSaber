@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+
+        name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logoquero</item>
+        <item name="postSplashScreenTheme">@style/Theme.QuerSaber</item>
+
+    </style>
+</resources>
